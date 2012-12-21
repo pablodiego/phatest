@@ -2,8 +2,9 @@
 
 int main()
 {
- // Prints tester autarquia's name
+ // Prints tester autarquia's name. Edited by hallyson.
  // Can you create a class?
+
  cout << "Pablo Quiroga" <<endl;
  return 0;
 }
