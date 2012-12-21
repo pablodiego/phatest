@@ -7,6 +7,8 @@ int main()
 
  //compila agora que eu duvido
 
- cout << "Pablo Quiroga" <<endl;
+ cout << "Pablo Quiroga" << endl;
+ cout << "Hallyson Melo" << endl;
+
  return 0;
 }
